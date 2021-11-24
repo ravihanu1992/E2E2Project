@@ -1,0 +1,8 @@
+15:08:49.433 [TestNG] INFO  resources.Base - Navigated to Home Page
+15:08:49.548 [TestNG] INFO  resources.Base - Navigation Bar is displayed
+15:08:49.660 [TestNG] INFO  resources.Base - window closed
+15:08:51.596 [TestNG] INFO  resources.Base - window closed
+15:20:32.733 [TestNG] INFO  resources.Base - Driver is initialized
+15:20:33.052 [TestNG] INFO  resources.Base - Driver is initialized
+15:20:40.301 [TestNG] INFO  resources.Base - Navigated to Home Page
+15:20:42.378 [TestNG] INFO  resources.Base - Navigated to Home Page
